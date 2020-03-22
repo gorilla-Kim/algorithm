@@ -1,3 +1,5 @@
+# -*- encoding: utf-8 -*-
+
 # P4 print Hello\nWorld
 print("Hello\nWorld")
 # P5 print String "Hello World" 
